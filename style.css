@@ -114,7 +114,7 @@
 
 .about2-img {
     width: 100%;
-    border-radius: 10px;
+    border-radius: 10px !important;
     align-items: end;
 }
 
@@ -130,8 +130,8 @@
     background-image: url(./asset/img/4532174-trees-aerial-view-forest-road.jpg) !important;
     background-repeat: no-repeat !important;
     background-size: cover !important;
-    background-position: center;
-    border-radius: 20px;
+    background-position: center !important;
+    border-radius: 20px !important;
     width: 80% !important;
 }
 
@@ -163,8 +163,8 @@
 } */
 
 .pic {
-    width: 100px !important;
-    border-radius: 80px;
+    width: 100px !important !important;
+    border-radius: 80px !important;
 }
 
 .port-filter {
