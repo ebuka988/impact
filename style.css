@@ -162,8 +162,13 @@
     color: #070808 !important;
 } */
 
-.pic {
-    width: 100px !important !important;
+/* .pic {
+    width: 200px !important !important;
+    border-radius: 80px !important;
+} */
+
+.testimonial-pics{
+    width: 100px !important;
     border-radius: 80px !important;
 }
 
