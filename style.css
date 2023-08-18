@@ -184,8 +184,8 @@
 
 .portfoilo-pic {
     width: 160% !important;
-    border-top-left-radius: 1em;
-    border-top-right-radius: 1em;
+    border-top-left-radius: 1em !important;
+    border-top-right-radius: 1em !important;
 }
 
 .portfoilo-pic img{
@@ -199,8 +199,8 @@
 
 .app{
     background-color: white !important;
-    border-bottom-left-radius: 1em;
-    border-bottom-right-radius: 1em;
+    border-bottom-left-radius: 1em !important;
+    border-bottom-right-radius: 1em !important;
 }
 
 .team-pic{
