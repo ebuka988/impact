@@ -203,3 +203,116 @@
     border-bottom-right-radius: 1em;
 }
 
+.team-pic{
+    border-radius: 1em !important;
+    width: 350px !important;
+}
+
+.social-icons{
+    width: 40px !important;
+    align-items: center !important;
+}
+
+.p-writeup{
+    color: #CECECE !important;
+}
+
+.price-icon{
+    width: 55px !important;
+    background-color: #008374 !important;
+    border-radius: 4px !important;
+    padding: 6px !important;
+}
+
+.dollar-sign, .amount{
+    color: #f9715a !important;
+}
+
+.price-list{
+    list-style: lower-greek;
+}
+
+.btn-buy-now{
+    border: 1px #008d7d solid !important;
+    color: #008374 !important;
+    border-radius: 10px !important;
+    transition-duration: 0.2s !important;
+}
+
+.btn-buy-now:hover{
+color: white !important;
+background-color: #008d7d !important;
+}
+
+.business-plan{
+    border: #008374 3px solid !important;
+}
+
+.question:hover{
+    transition-duration: 0.4s !important;
+    color: #008374 !important;
+}
+
+.Blog{
+    background-color: #f6f6f6 !important;
+}
+
+.blog-pic{
+    width: 100% !important;
+    border-top-left-radius: 1em;
+    border-top-right-radius: 1em;
+}
+
+.author-pic{
+    width: 65px !important;
+    border-radius: 70px !important;
+}
+
+.blog-writeup:hover{
+    color: #008d7d !important;
+    transition-duration: 0.3s !important;
+}
+
+.contacts{
+    background-color: #009282 !important;
+}
+
+.contact-icon{
+    width: 40px !important;
+    background-color: #33a89b !important;
+    padding: 4px !important;
+    border-radius: 5px !important;
+    height: 50px !important;
+}
+
+.contact-icon:hover{
+    background-color: #f6f6f6 !important;
+    transition-duration: 0.4s !important;
+    border-radius: 5px !important;
+    padding: 5px !important;
+}
+
+.box{
+    background-color: #0bae9b !important;
+    color: white !important;
+    border-radius: 7px !important;
+}
+
+
+.form-name,.form-email{
+    width:  50% !important;
+}
+
+.btn-form{
+    color: white !important;
+    background-color: #008374 !important;
+}
+
+.impact-copyright{
+    background-color: #008d7d !important;
+
+}
+
+.c-ul{
+    list-style-type: none !important;
+}
