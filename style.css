@@ -5,7 +5,8 @@
 }
 
 .nav-bar {
-    position: fixed !important;
+    position: sticky !important;
+    width: 100% !important;
     top: 0 !important;
     left: 0 !important;
 }
@@ -315,4 +316,8 @@ background-color: #008d7d !important;
 
 .c-ul{
     list-style-type: none !important;
+}
+
+.main-div{
+    width: 90% !important;
 }
